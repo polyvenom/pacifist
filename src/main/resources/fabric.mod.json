@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "pacifist",
+	"version": "${version}",
+	"name": "The Pacifist",
+	"description": "Provides non-lethal alternatives to hostile mob drops. Stonecut string from wool, siphon spawners with a brush, brush shulkers, pluck phantoms with shears, weep ghast tears from crying obsidian.",
+	"authors": [
+		"tom"
+	],
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.tom.pacifist.Pacifist"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

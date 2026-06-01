@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:kelp",
+    "minecraft:honeycomb"
+  ],
+  "result": {
+    "id": "minecraft:slime_ball"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:red_tulip",
+    "minecraft:brown_mushroom"
+  ],
+  "result": {
+    "id": "minecraft:spider_eye"
+  }
+}
